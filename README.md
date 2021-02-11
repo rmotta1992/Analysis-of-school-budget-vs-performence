@@ -11,7 +11,7 @@ Jupyter Notebook - used to run the code
 ![df1](images/schools-df.png)
 
 ## Findings
-![df2](images/school-performance.png)
+![df2](images/school-performane.png)
 ![df3](images/scores-by-size.png)
 
 According the analysis of the data schools with a higher budget did not have higher student performance. Like wise schools with a larger student body also had poorer perfomacne comapred to smaller schools. This can be explained by larger schools likely having a higher student to teacher ratio. 
